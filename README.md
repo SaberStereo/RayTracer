@@ -1,6 +1,6 @@
 # Simple Ray Tracer
 
-Follow [Ray Tracing in One Weekend](raytracing.github.io/books/RayTracingInOneWeekend.html).
+Follow [Ray Tracing in One Weekend](https://raytracing.github.io/books/RayTracingInOneWeekend.html).
 
 ## Features
 
